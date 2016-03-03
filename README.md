@@ -11,9 +11,11 @@ python cameragb.py IMG_4934.jpg
 </pre>
 
 Input:
-![Picture](IMG_4934.jpg) {width: 200px;}
+
+![Picture](IMG_4934.jpg)
 
 Output:
+
 ![Picture](GAMEBOYER.jpg)
 
 Todo:
