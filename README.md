@@ -1,7 +1,6 @@
 # CameraGameBoy
-A python script to convert any picture in a “GameBoy” camera photo.
-Author: Francisco Gárate
-Licence: GPLv3
+Author: Francisco Gárate\n
+Licence: GPLv3\n
 A quickly python script to convert any picture in a “GameBoy” camera photo.
 It has been done in barely 15 minutes, and gotten better in other 10 minutes, so it’s easily to be improved (mainly to skip the temporal file  step).
 
