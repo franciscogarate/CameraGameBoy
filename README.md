@@ -11,7 +11,7 @@ python cameragb.py IMG_4934.jpg
 </pre>
 
 Input:
-![Picture](IMG_4934.jpg)
+![Picture](IMG_4934.jpg = 250x)
 
 Output:
 ![Picture](GAMEBOYER.jpg)
