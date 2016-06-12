@@ -30,7 +30,7 @@ def convertir(input,output):
 	fontear('temp.JPG','temp.JPG')
 	img3 = Image.open('temp.JPG')
 	gray = ImageOps.grayscale(img3)
-	posterized = ImageOps.posterize(gray, 3) # (1-8) value 3 is more similar than gameboy camera
+	posterized = ImageOps.posterize(gray, 3) # (1-8) value 3 is more similar than game boy camera
 	posterized.save(output)
 
 #file_input = sys.argv[1]
